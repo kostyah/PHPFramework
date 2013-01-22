@@ -1,0 +1,15 @@
+##########################
+# 	FRAMEWORK	 #
+##########################
+
+I - Changelog
+
+	* Version 1.1 ( 05 Oct. 2012 )
+		- Added in class Page.php : Page::getTemplateNameFromDb() witch returns the name of the 		  template from database with the id of page ( page->id )
+		- Changes in class Page.php : Page->selectTemplateName to work with the previous change
+		- Bug correction in constructor of class Db.php
+		
+	* Version 1.2
+		- Added nothing
+
+		
